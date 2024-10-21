@@ -1,0 +1,4 @@
+﻿  airport_simulation.cpp
+C:\Users\User\source\repos\airport_simulation\airport_simulation\Flight.h(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\User\source\repos\airport_simulation\airport_simulation\airport_simulation.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  airport_simulation.vcxproj -> C:\Users\User\source\repos\airport_simulation\x64\Debug\airport_simulation.exe
